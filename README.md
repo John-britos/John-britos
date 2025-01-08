@@ -34,8 +34,7 @@
 
 <div>
     
-  <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=John-britos&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=John-britos&theme=dracula&hide_border=true">
+  <img alt="John-britos Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=John-britos&show_icons=true&theme=dracula&count_private=true&hide_border=true">
 </div>
 
 
