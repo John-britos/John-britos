@@ -50,7 +50,6 @@ me.sayHi();
 ##
 
 <div>
-     <img alt="John-britos Github Top language"  width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-britos&show_icons=true&theme=dracula&count_private=true&hide_border=true"> 
   <img alt="John-britos Github Stats"  height="40% width="50%" src="https://github-readme-stats.vercel.app/api?username=John-britos&show_icons=true&theme=dracula&count_private=true&hide_border=true">
 </div>
 
