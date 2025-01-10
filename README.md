@@ -1,7 +1,24 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World.</h1>
 
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm John Ashley Britos, a Software Engineer/Data analyst from Philippines.
+```javascript
+class professionalProfile {
+    constructor() {
+        this.name = "John Ashley T. Britos";
+        this.roles = ["Software Engineer", "Data Analyst"];
+        this.languagesSpoken = ["tl_PH", "en_US"];
+        this.address = "Binalonan, Pangasinan, Philippines";
+        this.height = "176cm";
+    }
 
+    sayHi() {
+        console.log("Thanks for dropping by, hope you find some of my work interesting!");
+        console.log("Success is built on dedication, perseverance, and relentless hard work.");
+    }
+}
+
+const me = new professionalProfile();
+me.sayHi();
+```
 ## 📖  What I am currently learning / improving on
 
 <div style="display: inline_block">
