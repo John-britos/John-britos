@@ -4,7 +4,7 @@
 class professionalProfile {
     constructor() {
         this.name = "John Ashley T. Britos";
-        this.roles = ["Software Engineer", "Data Analyst"];
+        this.roles = ["Software Developer", "Data Analyst"];
         this.languagesSpoken = ["tl_PH", "en_US"];
         this.address = "Binalonan, Pangasinan, Philippines";
         this.height = "176cm";
