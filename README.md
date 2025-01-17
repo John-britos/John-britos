@@ -12,7 +12,7 @@ class professionalProfile {
 
     sayHi() {
         console.log("Thanks for dropping by, hope you find some of my work interesting!");
-        console.log("Success is built on dedication, perseverance, and relentless hard work.");
+        console.log("Success is built on dedication, perseverance, and relentless hard work. :)");
     }
 }
 
