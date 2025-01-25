@@ -7,7 +7,7 @@ class professionalProfile {
         this.roles = ["Software Developer", "Data Analyst"];
         this.languagesSpoken = ["tl_PH", "en_US"];
         this.address = "Binalonan, Pangasinan, Philippines";
-        this.height = "176cm";
+        this.course = "Bachelor of Science in Information Technology";
     }
 
     sayHi() {
