@@ -16,7 +16,7 @@ class professionalProfile {
     }
 }
 
-const me = new professionalProfile();
+const mySelf = new professionalProfile();
 me.sayHi();
 ```
 ## 📖  What I am currently learning / improving on
