@@ -4,10 +4,10 @@
 class professionalProfile {
     constructor() {
         this.name = "John Ashley T. Britos";
-        this.roles = ["Software Developer", "Data Analyst"];
-        this.languagesSpoken = ["tl_PH", "en_US"];
+        this.roles = ["Data Analyst"];
+        this.languagesSpoken = ["tl_PH", "en_US", "ko_KR", "ja_JP"];
         this.address = "Binalonan, Pangasinan, Philippines";
-        this.course = "Bachelor of Science in Information Technology";
+        this.program = "Bachelor of Science in Information Technology";
     }
 
     sayHi() {
